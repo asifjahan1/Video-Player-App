@@ -2,6 +2,7 @@
 
 A Flutter Video Player App project.
 
+
 N.B: If there is any mistake, please consider it with forgiveness. Thank you. Peace be upon you, sir.
 
 https://github.com/asifjahan1/Video-Player-App/assets/54774661/9362fc76-a7b2-4c0a-b405-0406269b3d16
