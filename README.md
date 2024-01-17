@@ -7,7 +7,7 @@ https://github.com/asifjahan1/Video-Player-App/assets/54774661/9362fc76-a7b2-4c0
 
 # <span style="font-size:larger;">Screenshots</span>
 
-| <img width="27%" src="https://github.com/asifjahan1/Video-Player-App/assets/54774661/4d178410-769d-46e6-8e1f-2a6b5410a4bd"> | | <img width="27%" src="https://github.com/asifjahan1/Video-Player-App/assets/54774661/c99abd03-9793-4e20-8eda-b0aeff9d75a7"> |
+| <img width="200" src="https://github.com/asifjahan1/Video-Player-App/assets/54774661/4d178410-769d-46e6-8e1f-2a6b5410a4bd"> | <img width="200" src="https://github.com/asifjahan1/Video-Player-App/assets/54774661/c99abd03-9793-4e20-8eda-b0aeff9d75a7"> |
 
 
 
